@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "ecommerce-ui",
+    "slug": "ecommerce-ui",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#0F172A"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.ecommerce.ui"
+    },
+    "android": {
+      "package": "com.ecommerce.ui"
+    },
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}

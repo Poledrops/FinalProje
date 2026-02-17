@@ -1,0 +1,220 @@
+{
+    "categories": [
+        {
+            "id": "1",
+            "name": "Electronics",
+            "icon": "💻",
+            "gradient": [
+                "#8B5CF6",
+                "#3B82F6"
+            ],
+            "count": 234
+        },
+        {
+            "id": "2",
+            "name": "Fashion",
+            "icon": "👔",
+            "gradient": [
+                "#FF6B6B",
+                "#FF8E53"
+            ],
+            "count": 567
+        },
+        {
+            "id": "3",
+            "name": "Home",
+            "icon": "🏠",
+            "gradient": [
+                "#10B981",
+                "#14B8A6"
+            ],
+            "count": 189
+        },
+        {
+            "id": "4",
+            "name": "Beauty",
+            "icon": "💄",
+            "gradient": [
+                "#F472B6",
+                "#EC4899"
+            ],
+            "count": 345
+        },
+        {
+            "id": "5",
+            "name": "Sports",
+            "icon": "⚽",
+            "gradient": [
+                "#F59E0B",
+                "#D97706"
+            ],
+            "count": 456
+        },
+        {
+            "id": "6",
+            "name": "Toys",
+            "icon": "🎁",
+            "gradient": [
+                "#8B5CF6",
+                "#7C3AED"
+            ],
+            "count": 278
+        }
+    ],
+    "products": [
+        {
+            "id": "1",
+            "name": "Premium Wireless Headphones",
+            "price": 299.99,
+            "originalPrice": 399.99,
+            "rating": 4.8,
+            "reviews": 2847,
+            "category": "Electronics",
+            "description": "High quality wireless headphones with noise cancellation",
+            "brand": "AudioPro",
+            "inStock": true,
+            "discount": 25,
+            "isNew": false,
+            "colors": [
+                "black",
+                "silver",
+                "blue"
+            ]
+        },
+        {
+            "id": "2",
+            "name": "Smart Watch Series 7",
+            "price": 449.99,
+            "rating": 4.9,
+            "reviews": 5632,
+            "category": "Electronics",
+            "description": "Advanced smartwatch with health tracking",
+            "brand": "TechWear",
+            "inStock": true,
+            "isNew": true,
+            "colors": [
+                "black",
+                "gold",
+                "silver"
+            ]
+        },
+        {
+            "id": "3",
+            "name": "Designer Leather Jacket",
+            "price": 189.99,
+            "originalPrice": 349.99,
+            "rating": 4.7,
+            "reviews": 892,
+            "category": "Fashion",
+            "description": "Genuine leather jacket with modern style",
+            "brand": "UrbanStyle",
+            "inStock": true,
+            "discount": 46,
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "colors": [
+                "black",
+                "brown"
+            ]
+        },
+        {
+            "id": "4",
+            "name": "Running Sneakers Pro",
+            "price": 129.99,
+            "rating": 4.6,
+            "reviews": 3421,
+            "category": "Fashion",
+            "description": "Comfortable running shoes",
+            "brand": "SportMax",
+            "inStock": true,
+            "isNew": true,
+            "sizes": [
+                "7",
+                "8",
+                "9",
+                "10",
+                "11"
+            ],
+            "colors": [
+                "white",
+                "black",
+                "red"
+            ]
+        },
+        {
+            "id": "5",
+            "name": "Modern Coffee Table",
+            "price": 249.99,
+            "rating": 4.5,
+            "reviews": 567,
+            "category": "Home",
+            "description": "Minimalist coffee table",
+            "brand": "HomeStyle",
+            "inStock": true
+        },
+        {
+            "id": "6",
+            "name": "Luxury Skincare Set",
+            "price": 89.99,
+            "originalPrice": 129.99,
+            "rating": 4.9,
+            "reviews": 1234,
+            "category": "Beauty",
+            "description": "Complete skincare set",
+            "brand": "GlowLab",
+            "inStock": true,
+            "discount": 31
+        },
+        {
+            "id": "7",
+            "name": "Yoga Mat Premium",
+            "price": 49.99,
+            "rating": 4.7,
+            "reviews": 2156,
+            "category": "Sports",
+            "description": "Non-slip yoga mat",
+            "brand": "FitLife",
+            "inStock": true,
+            "colors": [
+                "purple",
+                "pink",
+                "blue",
+                "grey"
+            ]
+        },
+        {
+            "id": "8",
+            "name": "Wireless Earbuds Pro",
+            "price": 159.99,
+            "originalPrice": 199.99,
+            "rating": 4.8,
+            "reviews": 4289,
+            "category": "Electronics",
+            "description": "True wireless earbuds",
+            "brand": "AudioPro",
+            "inStock": true,
+            "discount": 20,
+            "colors": [
+                "white",
+                "black"
+            ]
+        }
+    ],
+    "trending": [
+        "Wireless Headphones",
+        "Smart Watch",
+        "Running Shoes",
+        "Skincare",
+        "Laptop",
+        "Yoga Mat"
+    ],
+    "recentSearches": [
+        "Premium Headphones",
+        "Leather Jacket",
+        "Coffee Table"
+    ]
+}
